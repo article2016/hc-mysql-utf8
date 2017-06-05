@@ -357,6 +357,4 @@ $_SESSION['sqlcx'] = $_POST['sql'];
 
 <?php
 mysql_close($con);
-?><script language="javascript">setTimeout(function (){location.href='index.php';},1);</script><?
-?>
-
+?><script language="javascript">setTimeout(function (){location.href='index.php';},1);</script>
